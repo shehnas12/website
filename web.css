@@ -1,0 +1,53 @@
+
+
+.a{
+    height: 50px;
+    width: 100%;
+    background-color: lightgreen;
+}
+#one{
+    margin-left: 45%;
+    font-size: 25px;
+    padding-top: 10px;
+}
+marquee{
+    font-size: 200%;
+    padding-top: 45px;
+    width: 100%;
+}
+.three{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    height: 200%;
+}
+#aa{
+    width: 60%;
+    height: 80%;
+}
+
+#bb{
+    width: 60%;
+    height: 80%;
+}
+
+#cc{
+    width: 60%;
+    height: 80%; 
+}
+footer{
+    background-color:lightcyan;
+    height: 200px;
+}
+button{
+    text-decoration: none;
+    color: black;
+    padding:0 20px;
+    margin-top: 5%;
+    margin-left: 2%;
+    background-color:black ;
+    color: white;
+}
+#six{
+    margin-left: 70%;
+    float: right;
+}
